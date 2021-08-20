@@ -16,7 +16,7 @@ Just enter your mega.nz link and I will return the file/video to you!😇
 
 💠 I can download links which are bigger than 2GB too! 😍
 
-Press /help for more details!
+Press /help for more details!"""
 
 
     
